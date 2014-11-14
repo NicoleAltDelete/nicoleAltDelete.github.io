@@ -1,0 +1,50 @@
+* {color; black;
+background: transparents;
+font-size: 12pt;
+font-family: "Times New Roamn", serif;}
+
+@page {margin: .5in;
+}
+h1,h2{
+  color:#FF6961;
+  font-family: "Source Sans Pro", sans-serif;
+  text-align: center;
+}
+
+h2{
+  color: #013E76;
+}
+
+address {text-align: center;}
+
+
+h3{
+  color:#FF8576;
+}
+
+p{margin-top:0;
+  margin-bottom:0;
+}
+
+#container {max-width: 800px;
+            margin: 0 auto;}
+
+a {text-decoration: none;
+    color: black;
+    padding-top:20px;
+    padding-bottom:20px;}
+
+a[href^="http://"]:after { content:"(" attr(href)")"}
+
+li{
+  padding-bottom: 6px;}
+
+article h3,
+article h4 {
+  margin:0;
+}
+
+nav ul li{
+  display: none;
+  width: 100px;
+}

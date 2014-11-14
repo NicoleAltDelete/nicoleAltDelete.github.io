@@ -1,0 +1,71 @@
+body {font-family: "Muli", sans-serif;
+      font-size:16px;}
+
+h1,h2{
+  color:#FF6961;
+  font-family: "Source Sans Pro", sans-serif;
+  text-align: center;
+}
+
+h2{
+  color: #013E76;
+}
+
+address {text-align: center;}
+
+
+h3{
+  color:#FF8576;
+}
+
+p{margin-top:0;
+  margin-bottom:0;
+}
+
+#container {max-width: 800px;
+            margin: 0 auto;}
+
+a {text-decoration: none;
+    color: #013E76;
+    padding-top:20px;
+    padding-bottom:20px;}
+a:hover {color:#FF6961}
+
+li{
+  padding-bottom: 6px;
+}
+
+
+#experience {
+  color: #050505;
+}
+
+#skills {
+  color: #050505;
+}
+
+#skillsh2 {
+  color: #FF6961;
+}
+
+article h3,
+article h4 {
+  margin:0;
+}
+
+nav{
+  text-align: center;
+  font-family: arial;
+}
+
+nav ul{
+  padding: 1em 0;
+  padding-left: 0;
+  border-top: 1px solid #050505;
+  border-bottom: 1px solid #050505;
+}
+
+nav ul li{
+  display: inline-block;
+  width: 100px;
+}
